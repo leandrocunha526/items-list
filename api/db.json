@@ -1,0 +1,25 @@
+{
+
+"items": [{
+
+  "id": 1,
+  "description": "Arroz",
+  "category": "Não perecível",
+  "image": "https://www.acasaencantada.com.br/wp-content/uploads/2019/01/arroz-perfeito.jpg"
+},
+
+{
+  "id": 2,
+  "description": "Farinha",
+  "category": "Não perecível",
+  "image": "https://saude.abril.com.br/wp-content/uploads/2018/12/farinha-bambu.png"
+},
+
+{
+  "id": 3,
+  "description": "Alface",
+  "category": "Perecível",
+  "image": "https://static.tuasaude.com/media/article/bv/qx/beneficios-da-alface_16044_l.jpg"
+}
+
+]}
